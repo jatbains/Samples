@@ -1,0 +1,17 @@
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bin\Debug\ReverseMap\resources.pri
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bin\Debug\AppxManifest.xml
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bin\Debug\JSTutotiral.build.appxrecipe
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\JSTutotiral.jsproj.CoreCompileInputs.cache
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\ResourceHandlingTask.state
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\priconfig.xml
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\priconfig.xml.intermediate
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\layout.resfiles
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\layout.resfiles.intermediate
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\resources.resfiles
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\resources.resfiles.intermediate
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\pri.resfiles
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\pri.resfiles.intermediate
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\qualifiers.txt
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\qualifiers.txt.intermediate
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\ProjectArchitectures.txt

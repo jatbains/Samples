@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ZigZagArray.cpp
+c:\users\jatba\documents\visual studio 2017\projects\zigzagarray\zigzagarray\zigzagarray.cpp(55): warning C4552: '!=': operator has no effect; expected operator with side-effect
+  ZigZagArray.vcxproj -> C:\Users\jatba\Documents\Visual Studio 2017\Projects\ZigZagArray\Debug\ZigZagArray.exe

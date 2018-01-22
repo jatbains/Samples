@@ -1,0 +1,3 @@
+﻿  Listy.cpp
+c:\users\jatba\documents\visual studio 2017\projects\listy\listy\listy.cpp(46): warning C4715: 'Listy::BinarySearch': not all control paths return a value
+  Listy.vcxproj -> c:\Users\jatba\documents\visual studio 2017\Projects\Listy\Debug\Listy.exe

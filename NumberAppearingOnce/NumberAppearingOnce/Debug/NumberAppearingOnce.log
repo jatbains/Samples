@@ -1,0 +1,4 @@
+﻿  NumberAppearingOnce.cpp
+c:\users\jatba\documents\visual studio 2017\projects\numberappearingonce\numberappearingonce\numberappearingonce.cpp(63): warning C4715: 'MissingRecur': not all control paths return a value
+c:\users\jatba\documents\visual studio 2017\projects\numberappearingonce\numberappearingonce\numberappearingonce.cpp(44): warning C4715: 'Linear': not all control paths return a value
+  NumberAppearingOnce.vcxproj -> c:\users\jatba\documents\visual studio 2017\Projects\NumberAppearingOnce\Debug\NumberAppearingOnce.exe

@@ -1,0 +1,4 @@
+﻿  RotateBits.cpp
+c:\users\jatba\documents\visual studio 2017\projects\rotatebits\rotatebits\rotatebits.cpp(33): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\jatba\documents\visual studio 2017\projects\rotatebits\rotatebits\rotatebits.cpp(39): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  RotateBits.vcxproj -> C:\Users\jatba\Documents\Visual Studio 2017\Projects\RotateBits\Debug\RotateBits.exe

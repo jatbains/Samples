@@ -1,0 +1,3 @@
+﻿  ReverseStringWord.cpp
+c:\users\jatba\documents\visual studio 2017\projects\reversestringword\reversestringword\reversestringword.cpp(34): warning C4101: 't': unreferenced local variable
+  ReverseStringWord.vcxproj -> C:\Users\jatba\documents\visual studio 2017\Projects\ReverseStringWord\Debug\ReverseStringWord.exe

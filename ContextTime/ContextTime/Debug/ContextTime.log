@@ -1,0 +1,3 @@
+﻿  ContextTime.cpp
+c:\users\jatba\documents\visual studio 2017\projects\contexttime\contexttime\contexttime.cpp(38): warning C4244: 'return': conversion from 'time_t' to 'long', possible loss of data
+  ContextTime.vcxproj -> c:\users\jatba\documents\visual studio 2017\Projects\ContextTime\Debug\ContextTime.exe

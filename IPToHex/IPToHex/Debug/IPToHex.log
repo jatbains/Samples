@@ -1,0 +1,6 @@
+﻿  IPToHex.cpp
+c:\users\jatba\documents\visual studio 2017\projects\iptohex\iptohex\iptohex.cpp(18): warning C4101: 'numD': unreferenced local variable
+c:\users\jatba\documents\visual studio 2017\projects\iptohex\iptohex\iptohex.cpp(18): warning C4101: 'numC': unreferenced local variable
+c:\users\jatba\documents\visual studio 2017\projects\iptohex\iptohex\iptohex.cpp(18): warning C4101: 'numB': unreferenced local variable
+c:\users\jatba\documents\visual studio 2017\projects\iptohex\iptohex\iptohex.cpp(18): warning C4101: 'numA': unreferenced local variable
+  IPToHex.vcxproj -> C:\Users\jatba\Documents\Visual Studio 2017\Projects\IPToHex\Debug\IPToHex.exe

@@ -1,0 +1,7 @@
+c:\users\jatba\documents\visual studio 2017\Projects\FactorialCS\FactorialCS\bin\Debug\FactorialCS.exe.config
+c:\users\jatba\documents\visual studio 2017\Projects\FactorialCS\FactorialCS\bin\Debug\FactorialCS.exe
+c:\users\jatba\documents\visual studio 2017\Projects\FactorialCS\FactorialCS\bin\Debug\FactorialCS.pdb
+c:\users\jatba\documents\visual studio 2017\Projects\FactorialCS\FactorialCS\obj\Debug\FactorialCS.csprojResolveAssemblyReference.cache
+c:\users\jatba\documents\visual studio 2017\Projects\FactorialCS\FactorialCS\obj\Debug\FactorialCS.csproj.CoreCompileInputs.cache
+c:\users\jatba\documents\visual studio 2017\Projects\FactorialCS\FactorialCS\obj\Debug\FactorialCS.exe
+c:\users\jatba\documents\visual studio 2017\Projects\FactorialCS\FactorialCS\obj\Debug\FactorialCS.pdb

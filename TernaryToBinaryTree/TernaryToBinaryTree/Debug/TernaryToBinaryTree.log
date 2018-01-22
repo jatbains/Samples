@@ -1,0 +1,6 @@
+﻿  TernaryToBinaryTree.cpp
+c:\users\jatba\documents\visual studio 2017\projects\ternarytobinarytree\ternarytobinarytree\ternarytobinarytree.cpp(25): warning C4101: 'c': unreferenced local variable
+c:\users\jatba\documents\visual studio 2017\projects\ternarytobinarytree\ternarytobinarytree\ternarytobinarytree.cpp(51): warning C4018: '>': signed/unsigned mismatch
+c:\users\jatba\documents\visual studio 2017\projects\ternarytobinarytree\ternarytobinarytree\ternarytobinarytree.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\jatba\documents\visual studio 2017\projects\ternarytobinarytree\ternarytobinarytree\ternarytobinarytree.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  TernaryToBinaryTree.vcxproj -> c:\users\jatba\documents\visual studio 2017\Projects\TernaryToBinaryTree\Debug\TernaryToBinaryTree.exe

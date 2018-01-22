@@ -1,0 +1,3 @@
+﻿  TournamentTree.cpp
+c:\users\jatba\documents\visual studio 2017\projects\tournamenttree\tournamenttree\tournamenttree.cpp(65): warning C4715: 'SecondMinNode': not all control paths return a value
+  TournamentTree.vcxproj -> C:\Users\jatba\documents\visual studio 2017\Projects\TournamentTree\Debug\TournamentTree.exe

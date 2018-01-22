@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Memory.cpp
+c:\users\jatba\documents\visual studio 2017\projects\memory\memory\memory.cpp(20): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
+c:\users\jatba\documents\visual studio 2017\projects\memory\memory\memory.cpp(28): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'Record *'
+c:\users\jatba\documents\visual studio 2017\projects\memory\memory\memory.cpp(29): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
+  Memory.vcxproj -> C:\Users\jatba\Documents\Visual Studio 2017\Projects\Memory\Debug\Memory.exe

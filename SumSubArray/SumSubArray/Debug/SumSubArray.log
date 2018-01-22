@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  SumSubArray.cpp
+c:\users\jatba\documents\visual studio 2017\projects\sumsubarray\sumsubarray\sumsubarray.cpp(61): warning C4715: 'SubArraySum': not all control paths return a value
+  SumSubArray.vcxproj -> C:\Users\jatba\Documents\Visual Studio 2017\Projects\SumSubArray\Debug\SumSubArray.exe

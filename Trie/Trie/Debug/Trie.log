@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Trie.cpp
+c:\users\jatba\documents\visual studio 2017\projects\trie\trie\trie.cpp(72): warning C4715: 'Trie::TNode::FindCountRec': not all control paths return a value
+c:\users\jatba\documents\visual studio 2017\projects\trie\trie\trie.cpp(37): warning C4715: 'Trie::TNode::GetNode': not all control paths return a value
+  Trie.vcxproj -> C:\Users\jatba\Documents\Visual Studio 2017\Projects\Trie\Debug\Trie.exe

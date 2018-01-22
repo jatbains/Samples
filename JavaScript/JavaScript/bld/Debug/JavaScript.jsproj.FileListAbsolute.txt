@@ -1,0 +1,17 @@
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bin\Debug\ReverseMap\resources.pri
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bin\Debug\AppxManifest.xml
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bin\Debug\JavaScript.build.appxrecipe
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\JavaScript.jsproj.CoreCompileInputs.cache
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\ResourceHandlingTask.state
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\priconfig.xml
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\priconfig.xml.intermediate
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\layout.resfiles
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\layout.resfiles.intermediate
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\resources.resfiles
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\resources.resfiles.intermediate
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\pri.resfiles
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\pri.resfiles.intermediate
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\qualifiers.txt
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\qualifiers.txt.intermediate
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\JavaScript\JavaScript\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,3 @@
+﻿  TreeLevelCount.cpp
+c:\users\jatba\documents\visual studio 2017\projects\treelevelcount\treelevelcount\treelevelcount.cpp(57): warning C4715: 'CountNodesAtLevel': not all control paths return a value
+  TreeLevelCount.vcxproj -> C:\Users\jatba\Documents\Visual Studio 2017\Projects\TreeLevelCount\Debug\TreeLevelCount.exe

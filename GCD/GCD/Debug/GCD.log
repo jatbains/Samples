@@ -1,0 +1,3 @@
+﻿  GCD.cpp
+c:\users\jatba\documents\visual studio 2017\projects\gcd\gcd\gcd.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GCD.vcxproj -> c:\Users\jatba\documents\visual studio 2017\Projects\GCD\Debug\GCD.exe

@@ -1,0 +1,8 @@
+c:\users\jatba\documents\visual studio 2017\Projects\Functional\Functional\bin\Debug\netcoreapp2.0\Functional.deps.json
+c:\users\jatba\documents\visual studio 2017\Projects\Functional\Functional\bin\Debug\netcoreapp2.0\Functional.runtimeconfig.json
+c:\users\jatba\documents\visual studio 2017\Projects\Functional\Functional\bin\Debug\netcoreapp2.0\Functional.runtimeconfig.dev.json
+c:\users\jatba\documents\visual studio 2017\Projects\Functional\Functional\bin\Debug\netcoreapp2.0\Functional.dll
+c:\users\jatba\documents\visual studio 2017\Projects\Functional\Functional\bin\Debug\netcoreapp2.0\Functional.pdb
+c:\users\jatba\documents\visual studio 2017\Projects\Functional\Functional\obj\Debug\netcoreapp2.0\Functional.fsprojResolveAssemblyReference.cache
+c:\users\jatba\documents\visual studio 2017\Projects\Functional\Functional\obj\Debug\netcoreapp2.0\Functional.dll
+c:\users\jatba\documents\visual studio 2017\Projects\Functional\Functional\obj\Debug\netcoreapp2.0\Functional.pdb

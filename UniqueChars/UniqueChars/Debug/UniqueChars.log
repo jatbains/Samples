@@ -1,0 +1,6 @@
+﻿  UniqueChars.cpp
+c:\users\jatba\documents\visual studio 2017\projects\uniquechars\uniquechars\uniquechars.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\jatba\documents\visual studio 2017\projects\uniquechars\uniquechars\uniquechars.cpp(31): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\jatba\documents\visual studio 2017\projects\uniquechars\uniquechars\uniquechars.cpp(33): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\jatba\documents\visual studio 2017\projects\uniquechars\uniquechars\uniquechars.cpp(19): warning C4101: 'map': unreferenced local variable
+  UniqueChars.vcxproj -> c:\users\jatba\documents\visual studio 2017\Projects\UniqueChars\Debug\UniqueChars.exe

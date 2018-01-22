@@ -1,0 +1,3 @@
+﻿  FileIO.cpp
+c:\users\jatba\documents\visual studio 2017\projects\fileio\fileio\fileio.cpp(57): warning C4101: 'myFile': unreferenced local variable
+  FileIO.vcxproj -> c:\Users\jatba\documents\visual studio 2017\Projects\FileIO\Debug\FileIO.exe

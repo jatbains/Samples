@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BitFlips", "BitFlips\BitFlips.vcxproj", "{CBCA5D7A-9207-4515-AB1A-23A99296FF70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCA5D7A-9207-4515-AB1A-23A99296FF70}.Debug|x64.ActiveCfg = Debug|x64
+		{CBCA5D7A-9207-4515-AB1A-23A99296FF70}.Debug|x64.Build.0 = Debug|x64
+		{CBCA5D7A-9207-4515-AB1A-23A99296FF70}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBCA5D7A-9207-4515-AB1A-23A99296FF70}.Debug|x86.Build.0 = Debug|Win32
+		{CBCA5D7A-9207-4515-AB1A-23A99296FF70}.Release|x64.ActiveCfg = Release|x64
+		{CBCA5D7A-9207-4515-AB1A-23A99296FF70}.Release|x64.Build.0 = Release|x64
+		{CBCA5D7A-9207-4515-AB1A-23A99296FF70}.Release|x86.ActiveCfg = Release|Win32
+		{CBCA5D7A-9207-4515-AB1A-23A99296FF70}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106E7712-FE26-4BBC-971A-4A0967A6BE9C}
+	EndGlobalSection
+EndGlobal

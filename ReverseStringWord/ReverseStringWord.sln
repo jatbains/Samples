@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseStringWord", "ReverseStringWord\ReverseStringWord.vcxproj", "{E91F0202-BF77-4F78-9D69-1728FDAB73DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91F0202-BF77-4F78-9D69-1728FDAB73DD}.Debug|x64.ActiveCfg = Debug|x64
+		{E91F0202-BF77-4F78-9D69-1728FDAB73DD}.Debug|x64.Build.0 = Debug|x64
+		{E91F0202-BF77-4F78-9D69-1728FDAB73DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{E91F0202-BF77-4F78-9D69-1728FDAB73DD}.Debug|x86.Build.0 = Debug|Win32
+		{E91F0202-BF77-4F78-9D69-1728FDAB73DD}.Release|x64.ActiveCfg = Release|x64
+		{E91F0202-BF77-4F78-9D69-1728FDAB73DD}.Release|x64.Build.0 = Release|x64
+		{E91F0202-BF77-4F78-9D69-1728FDAB73DD}.Release|x86.ActiveCfg = Release|Win32
+		{E91F0202-BF77-4F78-9D69-1728FDAB73DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C52863E0-C5D0-4C64-B835-24196890848F}
+	EndGlobalSection
+EndGlobal

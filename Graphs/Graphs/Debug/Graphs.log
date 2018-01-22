@@ -1,0 +1,21 @@
+﻿  Graphs.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xstddef(156): error C2678: binary '<': no operator found which takes a left-hand operand of type 'const Node' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(407): note: could be 'bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(400): note: or       'bool std::operator <(const std::error_code &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xstddef(156): note: while trying to match the argument list '(const Node, const Node)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xstddef(155): note: while compiling class template member function 'bool std::less<Node>::operator ()(const _Ty &,const _Ty &) const'
+          with
+          [
+              _Ty=Node
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(944): note: see reference to function template instantiation 'bool std::less<Node>::operator ()(const _Ty &,const _Ty &) const' being compiled
+          with
+          [
+              _Ty=Node
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\queue(377): note: see reference to class template instantiation 'std::less<Node>' being compiled
+  c:\users\jatba\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(44): note: see reference to class template instantiation 'std::priority_queue<Node,std::vector<_Ty,std::allocator<_Ty>>,std::less<_Ty>>' being compiled
+          with
+          [
+              _Ty=Node
+          ]

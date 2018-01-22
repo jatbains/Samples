@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinCon", "LinCon\LinCon.vcxproj", "{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Debug|ARM.Build.0 = Debug|ARM
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Debug|x64.ActiveCfg = Debug|x64
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Debug|x64.Build.0 = Debug|x64
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Debug|x86.ActiveCfg = Debug|x86
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Debug|x86.Build.0 = Debug|x86
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Release|ARM.ActiveCfg = Release|ARM
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Release|ARM.Build.0 = Release|ARM
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Release|x64.ActiveCfg = Release|x64
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Release|x64.Build.0 = Release|x64
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Release|x86.ActiveCfg = Release|x86
+		{E3D44B3D-90A1-4B78-A6C0-A8CB3E38E92F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5186920-31D4-4613-874E-2190B2FEEC50}
+	EndGlobalSection
+EndGlobal

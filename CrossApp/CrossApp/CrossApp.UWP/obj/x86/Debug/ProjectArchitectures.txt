@@ -1,0 +1,1 @@
+c:\users\jatba\documents\visual studio 2017\Projects\CrossApp\CrossApp\CrossApp.UWP\CrossApp.UWP.csproj;x86

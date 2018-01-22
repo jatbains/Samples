@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  DataTypes.cpp
+c:\users\jatba\documents\visual studio 2017\projects\datatypes\datatypes\datatypes.cpp(12): error C2440: 'initializing': cannot convert from 'const int *' to 'int *'
+  c:\users\jatba\documents\visual studio 2017\projects\datatypes\datatypes\datatypes.cpp(12): note: Conversion loses qualifiers

@@ -1,0 +1,7 @@
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\StructuresCSharp\StructuresCSharp\obj\Debug\StructuresCSharp.csprojResolveAssemblyReference.cache
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\StructuresCSharp\StructuresCSharp\obj\Debug\StructuresCSharp.csproj.CoreCompileInputs.cache
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\StructuresCSharp\StructuresCSharp\bin\Debug\StructuresCSharp.exe.config
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\StructuresCSharp\StructuresCSharp\bin\Debug\StructuresCSharp.exe
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\StructuresCSharp\StructuresCSharp\bin\Debug\StructuresCSharp.pdb
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\StructuresCSharp\StructuresCSharp\obj\Debug\StructuresCSharp.exe
+C:\Users\jatba\Documents\Visual Studio 2017\Projects\StructuresCSharp\StructuresCSharp\obj\Debug\StructuresCSharp.pdb

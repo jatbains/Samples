@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RHEAS-LAPTOP</Machine>
+    <WindowsUser>jatba</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>efe14092-dda1-4e88-b453-3008d903eabe</PackageIdentityName>
+    <PackageIdentityPublisher>CN=jatba</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>F4A5BBEB03A3B84AE21EAA459D4DA478D88580B65815BED939F3DB4B6977367A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>efe14092-dda1-4e88-b453-3008d903eabe_1.0.0.0_neutral__nrzx362xw8dpa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>efe14092-dda1-4e88-b453-3008d903eabe_nrzx362xw8dpa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>efe14092-dda1-4e88-b453-3008d903eabe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jatba</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-11T05:48:48.367</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-01-11T05:53:36.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-12-04T22:17:13.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-04T22:17:13.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-04T22:17:13.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-04T22:17:13.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-04T22:17:13.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-04T22:17:13.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-04T22:17:13.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-01-11T05:52:41.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-01-11T05:46:40.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jatba\Documents\Visual Studio 2017\Projects\JSTutotiral\JSTutotiral\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-11T05:48:48.286</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

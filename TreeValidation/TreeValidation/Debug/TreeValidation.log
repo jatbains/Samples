@@ -1,0 +1,3 @@
+﻿  TreeValidation.cpp
+c:\users\jatba\documents\visual studio 2017\projects\treevalidation\treevalidation\treevalidation.cpp(98): warning C4715: 'SmallestValue': not all control paths return a value
+  TreeValidation.vcxproj -> C:\Users\jatba\Documents\Visual Studio 2017\Projects\TreeValidation\Debug\TreeValidation.exe
