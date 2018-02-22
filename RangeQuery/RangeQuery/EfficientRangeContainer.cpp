@@ -8,20 +8,34 @@
 #include "EfficientRangeContainer.h"
 #include <iostream>
 #include "AVLTree.h"
+#include "KDTree.h"
 
 using namespace std;
 
 
 
+
+
 EfficientRangeContainer::EfficientRangeContainer(long data[],int size)
 {
+	kdtree = new KDTree();
 	mTree = new AVLTree();
+
+	for (int i = 0; i < size; i++)
+	{
+		kdtree->BuildTree( i, data[i]);
+	}
 
 	for (int i = 0; i < size; i++)
 	{
 		mTree->BuildTree(data[i], i);
 	}
 
+}
+
+bool EfficientRangeContainer::CheckIfValInKD(int ind, long val)
+{
+	return kdtree->Search(ind, val);
 }
 
 RangeIds* EfficientRangeContainer::findIdsInRange(long fromValue,

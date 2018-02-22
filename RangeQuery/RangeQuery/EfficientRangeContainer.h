@@ -8,14 +8,17 @@
 #include "Interfaces.h"
 #include "RangeIds.h"
 #include "AVLTree.h"
+#include "KDTree.h"
 
 class EfficientRangeContainer : public RangeContainer
 {
 	AVLTree *mTree;
+	KDTree *kdtree;
 
 public:
 	EfficientRangeContainer(long data[],int size);
-	virtual RangeIds* findIdsInRange(long fromValue,
+	bool CheckIfValInKD(int ind, long val);
+	RangeIds* findIdsInRange(long fromValue,
 		long toValue,
 		bool fromInclusive,
 		bool toInclusive);

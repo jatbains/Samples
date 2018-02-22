@@ -17,6 +17,7 @@ public:
 class RangeContainer 
 {
 public:
+	virtual bool CheckIfValInKD(int ind, long val) = 0;
 	virtual Ids* findIdsInRange(long fromValue,
 		long toValue,
 		bool fromInclusive,

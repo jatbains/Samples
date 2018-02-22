@@ -151,6 +151,7 @@
     <ClInclude Include="EfficientRangeContainer.h" />
     <ClInclude Include="EfficientRangeContainerFactory.h" />
     <ClInclude Include="Interfaces.h" />
+    <ClInclude Include="KDTree.h" />
     <ClInclude Include="RangeIds.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -159,6 +160,7 @@
     <ClCompile Include="AVLTree.cpp" />
     <ClCompile Include="EfficientRangeContainer.cpp" />
     <ClCompile Include="EfficientRangeContainerFactory.cpp" />
+    <ClCompile Include="KDTree.cpp" />
     <ClCompile Include="RangeIds.cpp" />
     <ClCompile Include="RangeQuery.cpp" />
     <ClCompile Include="stdafx.cpp">
