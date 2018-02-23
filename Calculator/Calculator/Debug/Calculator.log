@@ -1,3 +1,4 @@
-﻿  Calculator.cpp
+﻿  stdafx.cpp
+  Calculator.cpp
 c:\users\jatba\documents\visual studio 2017\projects\calculator\calculator\calculator.cpp(124): warning C4715: 'CalculateValue': not all control paths return a value
   Calculator.vcxproj -> C:\Users\jatba\Documents\Visual Studio 2017\Projects\Calculator\Debug\Calculator.exe
