@@ -1,3 +1,4 @@
-﻿  SortStack.cpp
+﻿  stdafx.cpp
+  SortStack.cpp
 c:\users\jatba\documents\visual studio 2017\projects\sortstack\sortstack\sortstack.cpp(61): warning C4715: 'Stack::Peek': not all control paths return a value
   SortStack.vcxproj -> C:\Users\jatba\Documents\Visual Studio 2017\Projects\SortStack\Debug\SortStack.exe
