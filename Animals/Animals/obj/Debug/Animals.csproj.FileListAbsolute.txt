@@ -5,3 +5,10 @@ C:\Users\jatba\documents\visual studio 2017\Projects\Animals\Animals\obj\Debug\A
 C:\Users\jatba\documents\visual studio 2017\Projects\Animals\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
 C:\Users\jatba\documents\visual studio 2017\Projects\Animals\Animals\obj\Debug\Animals.exe
 C:\Users\jatba\documents\visual studio 2017\Projects\Animals\Animals\obj\Debug\Animals.pdb
+C:\Users\jatba\source\repos\Samples\Animals\Animals\bin\Debug\Animals.exe.config
+C:\Users\jatba\source\repos\Samples\Animals\Animals\bin\Debug\Animals.exe
+C:\Users\jatba\source\repos\Samples\Animals\Animals\bin\Debug\Animals.pdb
+C:\Users\jatba\source\repos\Samples\Animals\Animals\obj\Debug\Animals.csprojAssemblyReference.cache
+C:\Users\jatba\source\repos\Samples\Animals\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\jatba\source\repos\Samples\Animals\Animals\obj\Debug\Animals.exe
+C:\Users\jatba\source\repos\Samples\Animals\Animals\obj\Debug\Animals.pdb
